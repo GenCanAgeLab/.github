@@ -1,6 +1,6 @@
 # 🧬 GenCanAge: Genomes, Cancer and Aging Research
 [![Web Oficial](https://img.shields.io/badge/Web_Oficial-gencanage.uniovi.es-0055A4?style=flat&logo=googlechrome&logoColor=white)](https://gencanage.uniovi.es/)
-[![University of Oviedo](https://img.shields.io/badge/University-Oviedo-blue)](https://www.uniovi.es/)
+[![University of Oviedo](https://img.shields.io/badge/Affiliation-University_of_Oviedo-blue)](https://www.uniovi.es/)
 [![IUOPA](https://img.shields.io/badge/Affiliation-IUOPA-darkred)]()
 [![CIBERonc](https://img.shields.io/badge/Affiliation-CIBERonc-orange)]()
 [![ISPA](https://img.shields.io/badge/Affiliation-ISPA-teal)]()
